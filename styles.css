@@ -44,6 +44,14 @@ body {
     margin: auto;
 }
 
+#cacGuyBgLvl1 {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+}
+
 #galleryImg {
   width: 95%;
   display: block;
